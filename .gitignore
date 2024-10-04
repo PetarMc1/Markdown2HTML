@@ -26,3 +26,4 @@ go.work.sum
 *.iss
 /.idea
 read.md
+output.html
