@@ -1,5 +1,8 @@
 # Markdown2HTML CLI Tool
 
+Ill no longer work on this because its useless :).
+
+
 Markdown2HTML is a command-line tool written in Go that converts Markdown files to HTML. It is designed to be simple and efficient for users looking to convert Markdown documents easily.
 
 ## Features
